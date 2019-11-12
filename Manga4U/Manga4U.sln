@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manga4U", "Manga4U.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserLayer", "..\ParserLayer\ParserLayer.csproj", "{8B0879B4-0213-4031-931A-F83B5333E13E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloaderLayer", "..\DownloaderLayer\DownloaderLayer.csproj", "{9318E881-B8D6-4208-97FC-6CBB9DEF4365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloaderLayer", "..\DownloaderLayer\DownloaderLayer.csproj", "{9318E881-B8D6-4208-97FC-6CBB9DEF4365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "..\PresentationLayer\PresentationLayer.csproj", "{98AFCFF8-2603-41FA-846F-0A2BF22F2C4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9318E881-B8D6-4208-97FC-6CBB9DEF4365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9318E881-B8D6-4208-97FC-6CBB9DEF4365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9318E881-B8D6-4208-97FC-6CBB9DEF4365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AFCFF8-2603-41FA-846F-0A2BF22F2C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AFCFF8-2603-41FA-846F-0A2BF22F2C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AFCFF8-2603-41FA-846F-0A2BF22F2C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AFCFF8-2603-41FA-846F-0A2BF22F2C4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
